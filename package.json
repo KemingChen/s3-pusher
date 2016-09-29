@@ -11,7 +11,7 @@
   "bugs": {
     "url": "https://github.com/giuliandrimba/s3-pusher.git"
   },
-  "main": "lib/s3-pusher",
+  "main": "lib/deploy",
   "engines": {
     "node": ">= 0.6.0"
   },
